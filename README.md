@@ -1,5 +1,5 @@
 # ICVL_Fortran
-FCC QD heterostructures
+FCC QD heterostructures.
 The Fortran code designs the position of atoms in an un-relaxed quantum dot (QD) standing on a wetting layer (WL) . The QD+WL ensemble is embedded in a matrix.  Both QD+WL and matrix have FCC symmetry. Two QD shapes are considered, cone and hemi-torus.
 
 Parameters:
